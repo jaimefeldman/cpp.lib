@@ -14,5 +14,5 @@
 #define cyan          "\033[36m"
 #define bold_cyana    "\033[1;36m"
 #define gray          "\033[37m"
-#define default_color "\033[0m"
+#define no_color      "\033[0m"
 
