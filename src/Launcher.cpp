@@ -19,21 +19,21 @@ using namespace std;
 int main(int argc, char *argv[])
 {
     cout << "[ Probando AnsiColors.h ]" << endl;
-    cout <<  dark_gray     << "dark_gray " << endl;
-    cout <<  red           << "red       " << endl;
-    cout <<  bold_red      << "blod_red  " << endl;
-    cout <<  green         << "green     " << endl;
-    cout <<  blod_green    << "blod_green" << endl;
-    cout <<  yellow        << "yellow    " << endl;
-    cout <<  blod_yellow   << "blod_yellow"<< endl;
-    cout <<  blue          << "blue      " << endl;
-    cout <<  bold_blue     << "bold_blue " << endl;
-    cout <<  magenta       << "magenta   " << endl;
-    cout <<  bold_magenta  << "bold_magenta" << endl;
-    cout <<  cyan          << "cyan      " << endl;
-    cout <<  bold_cyana    << "bold_cyana" << endl;
-    cout <<  gray          << "gray      " << endl;
-    cout <<  default_color << "default_color" << endl;
+    cout <<  dark_gray     << "dark_gray "     << endl;
+    cout <<  red           << "red       "     << endl;
+    cout <<  green         << "green     "     << endl;
+    cout <<  yellow        << "yellow    "     << endl;
+    cout <<  bold_red      << "blod_red  "     << endl;
+    cout <<  blod_green    << "blod_green"     << endl;
+    cout <<  blod_yellow   << "blod_yellow"    << endl;
+    cout <<  blue          << "blue      "     << endl;
+    cout <<  bold_blue     << "bold_blue "     << endl;
+    cout <<  magenta       << "magenta   "     << endl;
+    cout <<  bold_magenta  << "bold_magenta"   << endl;
+    cout <<  cyan          << "cyan      "     << endl;
+    cout <<  bold_cyana    << "bold_cyana"     << endl;
+    cout <<  gray          << "gray      "     << endl;
+    cout <<  no_color      << "no_color"       << endl;
 
     cout << endl << "[ Probando StringUtils.h ] " << endl;
 
